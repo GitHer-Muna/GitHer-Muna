@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muna Bhattarai</h1>
 
-<h3 align="center"> AWS Community Builder | 2X AWS Certified | AWS ABW Grant Recipient 2024 | AWS AI/ML Scholar | GitHub Campus Expert 🚩| β MLSA | AWS User Group Women in Tech Nepal | OCI GenAI Certified Professional AWS Certified Cloud Practitioner | GitHub Campus Expert 🚩| Beta MLSA | Speaker @CS50X Nepal | Communication Coordinator @AWS User Group Women in Tech Nepal | Outreach and Communication @GitHub Field Day Nepal 2023</h3>
+<h3 align="center"> AWS Community Builder | 2X AWS Certified | AWS ABW Grant Recipient 2024 | AWS AI/ML Scholar | GitHub Campus Expert 🚩| β MLSA | AWS User Group Women in Tech Nepal | OCI GenAI Certified Professional| Speaker @CS50X Nepal | Outreach and Communication @GitHub Field Day Nepal 2023</h3>
 
 ---
 
